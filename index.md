@@ -35,10 +35,17 @@ account adds is sync, so your log survives losing your phone and appears on a
 second device. You are asked once; after that the app opens straight into your
 log.
 
-If you do make an account, we use **Sign in with Apple**. Apple tells us an
-account identifier and an email address. If you choose "Hide My Email", Apple
-gives us a relay address instead of your real one and we never see your real
-one. We use the email only to identify your account and to show you which
+If you do make an account, there are two ways to do it.
+
+**Sign in with Apple.** Apple tells us an account identifier and an email
+address. If you choose "Hide My Email", Apple gives us a relay address instead
+of your real one and we never see your real one.
+
+**Email and password.** You give us an email address and choose a password. The
+password is handled by our hosting provider and we never see it. You confirm the
+address by email before the account works.
+
+Either way we use the email only to identify your account and to show you which
 account you are signed in to. We do not send marketing email.
 
 ## What leaves your phone
@@ -59,6 +66,20 @@ Your data is stored in a database where every row is locked to your account.
 Other people using the app cannot read your rows, and you cannot read theirs.
 There is nothing social in the app: no profiles, no friends, no feed, no
 sharing between users.
+
+## Finding tournaments near you
+
+The Nearby tab can use your location, and only if you allow it. It is asked for
+when you use that tab, never in the background, and you can type a city by hand
+instead.
+
+Your coordinates are used once, to work out which US state you are in. Working
+that out uses Apple's geocoder, so the coordinates go to Apple for that request.
+We never receive them. Only the state is used after that, to ask our server
+which shops and events are listed there.
+
+We do not store your coordinates, we do not keep a history of where you have
+been, and your location is never attached to your log.
 
 ## Screenshots you import
 
@@ -99,6 +120,9 @@ Three, and no others:
 - **Supabase**, if you sync — the hosting provider that runs the database your
   account lives in. The database is in Montreal, Canada. Supabase stores the
   data for us and does not use it for anything of its own.
+- **Apple's geocoder**, if you use Nearby — your coordinates are sent to Apple
+  to be turned into a state. Apple handles that request and we never see the
+  coordinates.
 - **Google's ML Kit**, for reading screenshots — a text recogniser that runs
   entirely on your phone. It is part of the app, not a service; no image and no
   text is sent anywhere.
