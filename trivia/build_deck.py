@@ -55,18 +55,22 @@ def main(cards_dir, out_dir):
         if not path.exists():
             print(f"missing {path}")
             continue
-        deck = genanki.Deck(stable_id(stem), f"Trivia Night::{title}")
+        tiers = {
+            "core": genanki.Deck(stable_id(stem), f"Trivia Night::1 Core::{title}"),
+            "bonus": genanki.Deck(stable_id(stem + "_bonus"), f"Trivia Night::2 Bonus::{title}"),
+        }
         seen = set()
         for c in json.load(open(path)):
+            priority = c.get("priority", "core")
             front, back = c["front"].strip(), c["back"].strip()
             if front.lower() in seen:
                 continue
             seen.add(front.lower())
-            tags = [t.replace(" ", "_") for t in c.get("tags", [])] + [stem]
-            deck.add_note(Note(model=MODEL, fields=[html.escape(front), html.escape(back), title], tags=tags))
+            tags = [t.replace(" ", "_") for t in c.get("tags", [])] + [stem, priority]
+            tiers[priority].add_note(Note(model=MODEL, fields=[html.escape(front), html.escape(back), title], tags=tags))
             rows.append([front, back, title, " ".join(tags)])
-        print(f"{title}: {len(deck.notes)} cards")
-        decks.append(deck)
+        print(f"{title}: {len(tiers['core'].notes)} core, {len(tiers['bonus'].notes)} bonus")
+        decks.extend(tiers.values())
     genanki.Package(decks).write_to_file(out_dir / "trivia_night.apkg")
     with open(out_dir / "trivia_night.tsv", "w", newline="") as f:
         csv.writer(f, delimiter="\t").writerows(rows)
