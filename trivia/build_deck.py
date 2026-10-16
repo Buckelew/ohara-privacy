@@ -10,6 +10,7 @@ import sys
 from pathlib import Path
 
 import genanki
+from anki.collection import Collection, ExportAnkiPackageOptions, ImportAnkiPackageRequest, ImportAnkiPackageOptions
 
 CATEGORIES = {
     "1_music_festivals": "01 Music Festivals",
@@ -45,6 +46,33 @@ def stable_id(name):
     return int(hashlib.sha1(name.encode()).hexdigest()[:8], 16) + (1 << 30)
 
 
+def embed_cram_preset(apkg):
+    """Re-export the package through Anki itself with a one-week cram preset on every deck."""
+    import tempfile
+    with tempfile.TemporaryDirectory() as tmp:
+        col = Collection(f"{tmp}/c.anki2")
+        col.import_anki_package(ImportAnkiPackageRequest(
+            package_path=str(apkg), options=ImportAnkiPackageOptions()))
+        conf = col.decks.add_config_returning_id("Trivia Cram (1 week)")
+        conf = col.decks.get_config(conf)
+        conf["new"].update(perDay=42, delays=[1.0, 10.0], ints=[1, 2, 0])
+        conf["rev"].update(perDay=9999, maxIvl=2)
+        conf["lapse"].update(delays=[10.0], minInt=1)
+        conf["newGatherPriority"] = 4  # random cards, so rounds are mixed
+        col.decks.update_config(conf)
+        for d in col.decks.all_names_and_ids():
+            if d.name.startswith("Trivia Night"):
+                deck = col.decks.get(d.id)
+                deck["conf"] = conf["id"]
+                col.decks.save(deck)
+        col.export_anki_package(
+            out_path=str(apkg),
+            options=ExportAnkiPackageOptions(with_deck_configs=True, with_scheduling=False, with_media=False),
+            limit=None,
+        )
+        col.close()
+
+
 def main(cards_dir, out_dir):
     cards_dir, out_dir = Path(cards_dir), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -70,7 +98,9 @@ def main(cards_dir, out_dir):
             rows.append([front, back, title, " ".join(tags)])
         print(f"{title}: {len(tiers['core'].notes)} core, {len(tiers['bonus'].notes)} bonus")
         decks.extend(tiers.values())
-    genanki.Package(decks).write_to_file(out_dir / "trivia_night.apkg")
+    apkg = out_dir / "trivia_night.apkg"
+    genanki.Package(decks).write_to_file(apkg)
+    embed_cram_preset(apkg)
     with open(out_dir / "trivia_night.tsv", "w", newline="") as f:
         csv.writer(f, delimiter="\t").writerows(rows)
     print(f"total: {len(rows)} cards")
