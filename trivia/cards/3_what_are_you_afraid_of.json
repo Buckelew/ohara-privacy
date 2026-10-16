@@ -1,0 +1,707 @@
+[
+ {
+  "front": "Arachnophobia is the fear of...?",
+  "back": "Spiders",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ophidiophobia is the fear of...?",
+  "back": "Snakes",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Acrophobia is the fear of...?",
+  "back": "Heights",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Claustrophobia is the fear of...?",
+  "back": "Enclosed or confined spaces",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Agoraphobia is the fear of...?",
+  "back": "Open or crowded spaces / situations where escape is hard (Greek agora = marketplace)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Coulrophobia is the fear of...?",
+  "back": "Clowns",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Trypophobia is the fear of...?",
+  "back": "Clusters of small holes (e.g., lotus seed pods)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Triskaidekaphobia is the fear of...?",
+  "back": "The number 13",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Paraskevidekatriaphobia is the fear of...?",
+  "back": "Friday the 13th",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Hexakosioihexekontahexaphobia is the fear of...?",
+  "back": "The number 666",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Nyctophobia is the fear of...?",
+  "back": "The dark / night",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Achluophobia is the fear of...?",
+  "back": "Darkness",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Glossophobia is the fear of...?",
+  "back": "Public speaking",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Aerophobia (aviophobia) is the fear of...?",
+  "back": "Flying",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Aquaphobia is the fear of...?",
+  "back": "Water",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Thalassophobia is the fear of...?",
+  "back": "The sea / deep bodies of water",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Xenophobia is the fear of...?",
+  "back": "Strangers or foreigners",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Cynophobia is the fear of...?",
+  "back": "Dogs",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ailurophobia is the fear of...?",
+  "back": "Cats",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ornithophobia is the fear of...?",
+  "back": "Birds",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Entomophobia is the fear of...?",
+  "back": "Insects",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Musophobia is the fear of...?",
+  "back": "Mice or rats",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Trypanophobia is the fear of...?",
+  "back": "Needles / injections",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Hemophobia is the fear of...?",
+  "back": "Blood",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Emetophobia is the fear of...?",
+  "back": "Vomiting",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Mysophobia (germophobia) is the fear of...?",
+  "back": "Germs / dirt / contamination",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Nosophobia is the fear of...?",
+  "back": "Disease / contracting an illness",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Necrophobia is the fear of...?",
+  "back": "Dead bodies / death",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Thanatophobia is the fear of...?",
+  "back": "Death or dying",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Taphophobia is the fear of...?",
+  "back": "Being buried alive (also: cemeteries)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Phasmophobia is the fear of...?",
+  "back": "Ghosts",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Wiccaphobia is the fear of...?",
+  "back": "Witches / witchcraft",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Samhainophobia is the fear of...?",
+  "back": "Halloween",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Pogonophobia is the fear of...?",
+  "back": "Beards",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Chronophobia is the fear of...?",
+  "back": "Time / the passage of time",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Somniphobia is the fear of...?",
+  "back": "Sleep",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Gephyrophobia is the fear of...?",
+  "back": "Bridges",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Astraphobia is the fear of...?",
+  "back": "Thunder and lightning",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Brontophobia is the fear of...?",
+  "back": "Thunder",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Anuptaphobia is the fear of...?",
+  "back": "Staying single",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Gamophobia is the fear of...?",
+  "back": "Marriage / commitment",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Philophobia is the fear of...?",
+  "back": "Falling in love",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Atychiphobia is the fear of...?",
+  "back": "Failure",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Nomophobia is the fear of...?",
+  "back": "Being without your mobile phone (\"no-mobile-phone phobia\")",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ergophobia is the fear of...?",
+  "back": "Work",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Arachibutyrophobia is the fear of...?",
+  "back": "Peanut butter sticking to the roof of your mouth",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Hippopotomonstrosesquippedaliophobia is the fear of...?",
+  "back": "Long words (ironically)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Sesquipedalophobia is the fear of...?",
+  "back": "Long words",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Pteronophobia is the fear of...?",
+  "back": "Being tickled by feathers",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Lachanophobia is the fear of...?",
+  "back": "Vegetables",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Alektorophobia is the fear of...?",
+  "back": "Chickens",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ephebiphobia is the fear of...?",
+  "back": "Teenagers / youth",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Gerascophobia is the fear of...?",
+  "back": "Growing old",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Decidophobia is the fear of...?",
+  "back": "Making decisions",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ablutophobia is the fear of...?",
+  "back": "Bathing / washing",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Pediophobia is the fear of...?",
+  "back": "Dolls",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Automatonophobia is the fear of...?",
+  "back": "Humanlike figures (mannequins, wax figures, animatronics, ventriloquist dummies)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Omphalophobia is the fear of...?",
+  "back": "Belly buttons",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Chorophobia is the fear of...?",
+  "back": "Dancing",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Selenophobia is the fear of...?",
+  "back": "The moon",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Heliophobia is the fear of...?",
+  "back": "The sun / sunlight",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Chionophobia is the fear of...?",
+  "back": "Snow",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Ombrophobia is the fear of...?",
+  "back": "Rain",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Bibliophobia is the fear of...?",
+  "back": "Books",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Technophobia is the fear of...?",
+  "back": "Technology",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Cyberphobia is the fear of...?",
+  "back": "Computers",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Papyrophobia is the fear of...?",
+  "back": "Paper",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Koumpounophobia is the fear of...?",
+  "back": "Buttons",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Turophobia is the fear of...?",
+  "back": "Cheese",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Xanthophobia is the fear of...?",
+  "back": "The color yellow",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Phobophobia is the fear of...?",
+  "back": "Fear itself / having a phobia",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Panphobia is the fear of...?",
+  "back": "Everything (a vague, persistent fear of all things)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Fear of clowns is called...?",
+  "back": "Coulrophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of the number 13 is called...?",
+  "back": "Triskaidekaphobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of Friday the 13th is called...? (one of two terms)",
+  "back": "Paraskevidekatriaphobia (also friggatriskaidekaphobia)",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of Halloween is called...?",
+  "back": "Samhainophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of ghosts is called...?",
+  "back": "Phasmophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of being buried alive is called...?",
+  "back": "Taphophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of public speaking is called...?",
+  "back": "Glossophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of long words is called...?",
+  "back": "Hippopotomonstrosesquippedaliophobia (or sesquipedalophobia)",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of the dark is called...? (two terms)",
+  "back": "Nyctophobia or achluophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of witches is called...?",
+  "back": "Wiccaphobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of dolls is called...?",
+  "back": "Pediophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "Fear of being without your phone is called...?",
+  "back": "Nomophobia",
+  "tags": [
+   "phobia",
+   "reverse"
+  ]
+ },
+ {
+  "front": "\"Hydrophobia\" is a historical name for which disease, because victims struggle to swallow water?",
+  "back": "Rabies",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "Despite the name, \"homophobia\" (coined in the 1960s–70s, popularized by psychologist George Weinberg) refers to what?",
+  "back": "Prejudice/hostility toward gay people (not a clinical phobia)",
+  "tags": [
+   "phobia"
+  ]
+ },
+ {
+  "front": "The word \"phobia\" comes from Phobos, Greek god/personification of fear. Who were his parents?",
+  "back": "Ares and Aphrodite",
+  "tags": [
+   "roots"
+  ]
+ },
+ {
+  "front": "Mars's two moons are named for the Greek personifications of fear and dread. Name them.",
+  "back": "Phobos (fear) and Deimos (dread)",
+  "tags": [
+   "roots"
+  ]
+ },
+ {
+  "front": "Greek root \"triskaideka-\" in triskaidekaphobia means...?",
+  "back": "Thirteen",
+  "tags": [
+   "roots"
+  ]
+ },
+ {
+  "front": "Greek root \"necro-\" (necrophobia) vs. \"thanato-\" (thanatophobia): which means corpse and which means death?",
+  "back": "Necro- = dead body/corpse; Thanatos = death (also the Greek god of death)",
+  "tags": [
+   "roots"
+  ]
+ },
+ {
+  "front": "\"The only thing we have to fear is fear itself\" — who said it and when?",
+  "back": "Franklin D. Roosevelt, first inaugural address, March 4, 1933",
+  "tags": [
+   "quote"
+  ]
+ },
+ {
+  "front": "Nickelodeon horror anthology whose kids told stories around a campfire as \"The Midnight Society\"?",
+  "back": "Are You Afraid of the Dark? (original run 1990–1996; revived 1999–2000)",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "On \"Are You Afraid of the Dark?\", what phrase opened each story submitted to the Midnight Society?",
+  "back": "\"Submitted for the approval of the Midnight Society, I call this story...\"",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "1990 horror-comedy about deadly South American spiders in a California town, starring Jeff Daniels and John Goodman (as the exterminator)?",
+  "back": "Arachnophobia (dir. Frank Marshall; first Hollywood Pictures release, produced with Amblin)",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "1996 thriller in which Mark Wahlberg plays an obsessive boyfriend stalking Reese Witherspoon?",
+  "back": "Fear",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "Batman villain who uses a fear toxin/gas to make victims see their worst fears?",
+  "back": "The Scarecrow (Dr. Jonathan Crane)",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "Netflix 2021 horror film trilogy based on R.L. Stine's teen books, set in Shadyside?",
+  "back": "Fear Street",
+  "tags": [
+   "pop culture"
+  ]
+ },
+ {
+  "front": "In a widely cited 2001 Gallup poll of Americans, what was the most common fear (ahead of public speaking and heights)?",
+  "back": "Snakes",
+  "tags": [
+   "survey"
+  ]
+ },
+ {
+  "front": "Which TV mogul has said she has a lifelong aversion to chewing gum and bans it from her office?",
+  "back": "Oprah Winfrey",
+  "tags": [
+   "celebrity"
+  ]
+ }
+]
