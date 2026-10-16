@@ -32,7 +32,7 @@ MODEL = genanki.Model(
     }],
     css=""".card{font-family:-apple-system,Helvetica,Arial,sans-serif;font-size:22px;text-align:center;}
 .cat{font-size:13px;opacity:.6;text-transform:uppercase;letter-spacing:.05em;margin-bottom:12px}
-.a{font-weight:600} img{max-width:90%;max-height:320px}""",
+.a{font-weight:600} .hint{font-size:14px;font-weight:400;opacity:.6;margin-top:10px} img{max-width:90%;max-height:320px}""",
 )
 
 
@@ -67,7 +67,7 @@ def embed_cram_preset(apkg):
                 col.decks.save(deck)
         col.export_anki_package(
             out_path=str(apkg),
-            options=ExportAnkiPackageOptions(with_deck_configs=True, with_scheduling=False, with_media=False),
+            options=ExportAnkiPackageOptions(with_deck_configs=True, with_scheduling=False, with_media=True),
             limit=None,
         )
         col.close()
@@ -76,7 +76,7 @@ def embed_cram_preset(apkg):
 def main(cards_dir, out_dir):
     cards_dir, out_dir = Path(cards_dir), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
-    decks, rows = [], []
+    decks, rows, media = [], [], []
     for stem, title in CATEGORIES.items():
         path = cards_dir / f"{stem}.json"
         if not path.exists():
@@ -94,12 +94,18 @@ def main(cards_dir, out_dir):
                 continue
             seen.add(front.lower())
             tags = [t.replace(" ", "_") for t in c.get("tags", [])] + [stem, priority]
-            tiers[priority].add_note(Note(model=MODEL, fields=[html.escape(front), html.escape(back), title], tags=tags))
+            q, a = html.escape(front), html.escape(back)
+            if c.get("image"):
+                # Picture card: show only the image, keep the written description as a hint on the back.
+                media.append(str(cards_dir.parent / "media" / c["image"]))
+                q = f'<img src="{c["image"]}"><div class="q">Name this pumpkin / character</div>'
+                a = f'{a}<div class="hint">{html.escape(front)}</div>'
+            tiers[priority].add_note(Note(model=MODEL, fields=[q, a, title], tags=tags))
             rows.append([front, back, title, " ".join(tags)])
         print(f"{title}: {len(tiers['core'].notes)} core, {len(tiers['bonus'].notes)} bonus")
         decks.extend(tiers.values())
     apkg = out_dir / "trivia_night.apkg"
-    genanki.Package(decks).write_to_file(apkg)
+    genanki.Package(decks, media_files=media).write_to_file(apkg)
     embed_cram_preset(apkg)
     with open(out_dir / "trivia_night.tsv", "w", newline="") as f:
         csv.writer(f, delimiter="\t").writerows(rows)
