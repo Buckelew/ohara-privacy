@@ -45,7 +45,8 @@
       "picture",
       "peanuts"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_4.jpg"
   },
   {
     "front": "In what year did It's the Great Pumpkin, Charlie Brown first air, and on which network?",
@@ -115,7 +116,8 @@
       "literature",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_11.jpg"
   },
   {
     "front": "Who wrote The Legend of Sleepy Hollow, and in what collection was it published?",
@@ -236,7 +238,8 @@
       "picture",
       "horror"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_23.jpg"
   },
   {
     "front": "Picture: a green-suited villain on a bat-shaped glider, lobbing small orange jack-o'-lantern grenades.",
@@ -293,7 +296,8 @@
       "video game",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_29.jpg"
   },
   {
     "front": "Picture: a single emoji of an orange carved pumpkin with a triangle-eyed grin.",
@@ -312,7 +316,8 @@
       "food",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_31.jpg"
   },
   {
     "front": "Picture: a giant yellow fiberglass pumpkin covered in black polka dots, sitting at the end of a pier by the sea on a Japanese island.",
@@ -321,7 +326,8 @@
       "art",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_32.jpg"
   },
   {
     "front": "What happened to Yayoi Kusama's yellow Pumpkin on Naoshima in 2021?",
@@ -339,7 +345,8 @@
       "art",
       "picture"
     ],
-    "priority": "bonus"
+    "priority": "bonus",
+    "image": "pumpkin_34.jpg"
   },
   {
     "front": "Picture: a 1990s album cover showing two young girls in fuzzy costume headbands. The band's name contains a gourd.",
@@ -377,7 +384,8 @@
       "nursery rhyme",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_38.jpg"
   },
   {
     "front": "Picture: a young couple in a 1990s diner jumping onto the tables with guns: \"Any of you pricks move, and I'll execute every one of you!\"",
@@ -386,7 +394,8 @@
       "film",
       "picture"
     ],
-    "priority": "core"
+    "priority": "core",
+    "image": "pumpkin_39.jpg"
   },
   {
     "front": "In Pulp Fiction, what name does Jules call Pumpkin?",
@@ -404,7 +413,8 @@
       "event",
       "picture"
     ],
-    "priority": "bonus"
+    "priority": "bonus",
+    "image": "pumpkin_41.jpg"
   },
   {
     "front": "Which city holds the Guinness record for the most lit jack-o'-lanterns on display, and what was the number?",
@@ -422,7 +432,8 @@
       "record",
       "picture"
     ],
-    "priority": "bonus"
+    "priority": "bonus",
+    "image": "pumpkin_43.jpg"
   },
   {
     "front": "Whose 2,749-pound pumpkin set the world record at Half Moon Bay in October 2023?",
@@ -485,7 +496,8 @@
       "folklore",
       "picture"
     ],
-    "priority": "bonus"
+    "priority": "bonus",
+    "image": "pumpkin_50.jpg"
   },
   {
     "front": "Botanically, is a pumpkin a fruit or a vegetable?",
@@ -512,7 +524,8 @@
       "event",
       "picture"
     ],
-    "priority": "bonus"
+    "priority": "bonus",
+    "image": "pumpkin_53.jpg"
   },
   {
     "front": "In the Peanuts special, which character skips trick-or-treating to wait with Linus in the pumpkin patch, and later demands restitution?",
