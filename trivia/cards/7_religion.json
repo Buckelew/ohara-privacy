@@ -1,19 +1,21 @@
 [
  {
   "front": "What are the three largest world religions by number of adherents, in order?",
-  "back": "Christianity (~2.4B), Islam (~2B), Hinduism (~1.2B)",
+  "back": "Christianity (~2.3B), Islam (~2B), Hinduism (~1.2B) — Pew 2020",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
-  "front": "Which religion is generally ranked 4th largest, with roughly 500 million followers?",
-  "back": "Buddhism",
+  "front": "Which religion is generally ranked 4th largest, with roughly 300–500 million followers?",
+  "back": "Buddhism (~325 million per Pew 2020; older estimates ~500M)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Judaism, Christianity, and Islam are collectively called what, after their shared patriarch?",
@@ -21,7 +23,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Belief in one god vs. many gods: name the two terms.",
@@ -29,7 +32,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who coined the word 'agnostic' (1869)?",
@@ -37,15 +41,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Atheism vs. agnosticism: what's the difference?",
-  "back": "Atheism: no belief in god(s); agnosticism: the existence of god is unknown/unknowable",
+  "back": "Atheism: no belief in god(s); agnosticism: god's existence is unknown/unknowable",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What term means renouncing or abandoning one's religion?",
@@ -53,7 +59,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What term means a belief contrary to official church doctrine?",
@@ -61,7 +68,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Formal expulsion from the Catholic Church's communion is called what?",
@@ -69,7 +77,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What do Christians call the first four books of the New Testament?",
@@ -77,7 +86,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "First and last books of the Christian Bible?",
@@ -85,7 +95,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "How many books are in the Protestant Bible?",
@@ -93,15 +104,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Longest book of the Bible?",
-  "back": "Psalms",
+  "back": "Psalms (150 chapters; Jeremiah is longest by word count)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Shortest verse in the Bible (KJV)?",
@@ -109,15 +122,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Shortest book of the Bible (by word count)?",
-  "back": "3 John (Obadiah is the shortest in the Old Testament)",
+  "back": "3 John (in the original Greek; Obadiah is the shortest OT book)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "On which mountain did Moses receive the Ten Commandments?",
@@ -125,7 +140,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the First Commandment (Protestant/Jewish numbering)?",
@@ -133,7 +149,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Name the Seven Deadly Sins.",
@@ -141,7 +158,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Which apostle betrayed Jesus, and for how much?",
@@ -149,7 +167,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Who replaced Judas as the 12th apostle?",
@@ -157,7 +176,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which apostle is considered the first pope?",
@@ -165,7 +185,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which apostle is known as 'Doubting'?",
@@ -173,7 +194,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "In what year did Martin Luther post his 95 Theses, and in what town?",
@@ -181,7 +203,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Luther's 95 Theses chiefly protested the sale of what?",
@@ -189,7 +212,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which English king broke with Rome to found the Church of England, enabling his divorce?",
@@ -197,7 +221,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Which wife did Henry VIII want to divorce, prompting the break with Rome?",
@@ -205,7 +230,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "In what year did the Great Schism split Christianity into Roman Catholic and Eastern Orthodox?",
@@ -213,7 +239,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which pope launched the First Crusade in 1095?",
@@ -221,7 +248,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "In what year did the Spanish Inquisition begin, under Ferdinand and Isabella?",
@@ -229,7 +257,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "In what year were the Salem witch trials?",
@@ -237,7 +266,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who is the current pope (elected May 2025)?",
@@ -245,15 +275,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What 'first' did Pope Leo XIV achieve?",
-  "back": "First American-born pope (born in Chicago)",
+  "back": "First pope from the United States (born in Chicago)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which pope did Leo XIV succeed?",
@@ -261,7 +293,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Pope Leo XIV belongs to which religious order?",
@@ -269,7 +302,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the meeting of cardinals that elects a pope called?",
@@ -277,7 +311,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What color smoke signals that a new pope has been elected?",
@@ -285,7 +320,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "In which chapel is the papal conclave held?",
@@ -293,7 +329,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who painted the Sistine Chapel ceiling?",
@@ -301,7 +338,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the world's smallest country, ruled by the pope?",
@@ -309,7 +347,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Which military unit guards the pope?",
@@ -317,7 +356,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "The 40-day Christian season before Easter is called what, and on what day does it begin?",
@@ -325,7 +365,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the largest Christian denomination?",
@@ -333,15 +374,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What day is November 1 on the Christian calendar?",
-  "back": "All Saints' Day (All Hallows) — Oct 31 is All Hallows' Eve, i.e., Halloween",
+  "back": "All Saints' Day (Oct 31 is All Hallows' Eve = Halloween)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What Gaelic/Celtic festival marking summer's end is considered Halloween's ancestor?",
@@ -349,7 +392,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What Mexican holiday on Nov 1–2 honors deceased loved ones?",
@@ -357,7 +401,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What modern pagan religion, popularized by Gerald Gardner, celebrates Samhain as a sabbat?",
@@ -365,7 +410,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What are the first five books of the Hebrew Bible called?",
@@ -373,7 +419,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the central text of Jewish oral law and commentary?",
@@ -381,7 +428,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Jewish house of worship? Religious leader?",
@@ -389,7 +437,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the Jewish New Year called?",
@@ -397,7 +446,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What ram's horn is blown on Rosh Hashanah?",
@@ -405,7 +455,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the holiest day in Judaism, the Day of Atonement?",
@@ -413,7 +464,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Which Jewish holiday commemorates the Exodus from Egypt with a seder meal?",
@@ -421,7 +473,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What unleavened bread is eaten during Passover?",
@@ -429,7 +482,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Hanukkah lasts how many nights?",
@@ -437,7 +491,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What spinning top is played with at Hanukkah?",
@@ -445,7 +500,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "At what age does a Jewish boy have his bar mitzvah?",
@@ -453,7 +509,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What term describes food permitted under Jewish dietary laws?",
@@ -461,7 +518,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What Jerusalem site, a remnant of the Second Temple, is Judaism's holiest prayer place?",
@@ -469,7 +527,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the Jewish day of rest, from Friday sundown to Saturday sundown?",
@@ -477,7 +536,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded Islam?",
@@ -485,7 +545,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Name the Five Pillars of Islam.",
@@ -493,7 +554,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "How many times a day do Muslims pray?",
@@ -501,7 +563,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Islam's holiest city? Second-holiest?",
@@ -509,7 +572,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What cube-shaped structure in Mecca do Muslims face when praying?",
@@ -517,7 +581,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the Muslim month of daytime fasting?",
@@ -525,7 +590,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What holiday marks the end of Ramadan?",
@@ -533,15 +599,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
- },
- {
-  "front": "What is the pilgrimage to Mecca that every able Muslim should make once?",
-  "back": "The Hajj",
-  "tags": [
-   "losing-my-religion",
-   "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the tower of a mosque called, and who calls the faithful to prayer from it?",
@@ -549,7 +608,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the title of the person who leads prayers in a mosque?",
@@ -557,7 +617,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What are the two main branches of Islam, and which is larger?",
@@ -565,7 +626,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Muhammad's 622 CE migration from Mecca to Medina, starting the Islamic calendar, is called what?",
@@ -573,7 +635,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded Hinduism?",
@@ -581,7 +644,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What are Hinduism's oldest sacred texts?",
@@ -589,7 +653,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "The Bhagavad Gita, a dialogue between Krishna and Arjuna, is part of which epic?",
@@ -597,7 +662,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Name the Hindu Trimurti and their roles.",
@@ -605,7 +671,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which elephant-headed Hindu god is the remover of obstacles?",
@@ -613,7 +680,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What Hindu 'festival of lights' falls in autumn?",
@@ -621,7 +689,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What Hindu spring festival is known for throwing colored powder?",
@@ -629,7 +698,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What Hindu concept is the law of cause and effect of one's actions?",
@@ -637,7 +707,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the holiest Hindu city, on the banks of the Ganges?",
@@ -645,7 +716,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the sacred syllable/symbol in Hinduism?",
@@ -653,7 +725,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded Buddhism?",
@@ -661,7 +734,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Under what tree, and where, did the Buddha attain enlightenment?",
@@ -669,7 +743,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "Where was the Buddha born?",
@@ -677,7 +752,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Buddhism's core teachings on suffering are the Four Noble ___ and the Noble ___ Path.",
@@ -685,7 +761,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the Buddhist state of liberation from the cycle of rebirth?",
@@ -693,7 +770,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who is the current (14th) Dalai Lama, and what branch does he lead?",
@@ -701,7 +779,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Zen Buddhism is most associated with which country?",
@@ -709,7 +788,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded Sikhism?",
@@ -717,7 +797,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is Sikhism's holiest shrine, and in what city?",
@@ -725,7 +806,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What is the Sikh holy scripture, regarded as the eternal Guru?",
@@ -733,15 +815,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Name the Sikh 5 Ks.",
-  "back": "Kesh (uncut hair), Kara (steel bracelet), Kanga (comb), Kachera (undergarment), Kirpan (sword/dagger)",
+  "back": "Kesh (uncut hair), Kara (bracelet), Kanga (comb), Kachera (undershorts), Kirpan (dagger)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which Indian religion, taught by Mahavira, stresses ahimsa (non-violence) toward all living things?",
@@ -749,7 +833,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What is the indigenous religion of Japan, whose spirits are called kami?",
@@ -757,7 +842,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What gate marks the entrance to a Shinto shrine?",
@@ -765,7 +851,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who is the traditional founder of Taoism, and what is its main text?",
@@ -773,7 +860,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What collection of sayings records Confucius's teachings?",
@@ -781,7 +869,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which ancient Persian religion was founded by Zarathustra and worships Ahura Mazda?",
@@ -789,7 +878,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Zoroastrians in India are known as what?",
@@ -797,7 +887,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded the Baha'i Faith, and where is its world center?",
@@ -805,7 +896,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Who founded the Church of Jesus Christ of Latter-day Saints (Mormons)?",
@@ -813,7 +905,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which Mormon leader led followers to Utah and founded Salt Lake City?",
@@ -821,7 +914,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What angel, per Mormon belief, led Joseph Smith to the golden plates?",
@@ -829,7 +923,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which science-fiction author founded Scientology, and what was his 1950 book?",
@@ -837,7 +932,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What magazine do Jehovah's Witnesses famously distribute door-to-door?",
@@ -845,7 +941,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Quakers are formally known as what, and who founded the movement?",
@@ -853,7 +950,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which Quaker founded Pennsylvania?",
@@ -861,7 +959,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What term describes the Amish adolescent period of exploring the outside world?",
@@ -869,7 +968,8 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Rastafarians revere which Ethiopian emperor as divine?",
@@ -877,15 +977,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What movement's adherents chant 'Hare Krishna'? (formal name)",
-  "back": "ISKCON (International Society for Krishna Consciousness), founded 1966 in NYC",
+  "back": "ISKCON (Int'l Society for Krishna Consciousness; NYC, 1966)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Followers of the Church of the Flying Spaghetti Monster are called what?",
@@ -893,15 +995,17 @@
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
-  "front": "Which Star Wars-inspired 'religion' was listed by ~390,000 people on the 2001 UK census?",
+  "front": "Which Star Wars-inspired 'religion' did ~390,000 people list on the 2001 England & Wales census?",
   "back": "Jediism (Jedi)",
   "tags": [
    "losing-my-religion",
    "religion"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What band recorded 'Losing My Religion'?",
@@ -909,7 +1013,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What year was 'Losing My Religion' released, and on which album?",
@@ -917,7 +1022,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What instrument plays the famous riff in 'Losing My Religion', and who played it?",
@@ -925,7 +1031,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What does the Southern expression 'losing my religion' mean?",
@@ -933,7 +1040,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "core"
  },
  {
   "front": "What was the peak US Billboard Hot 100 position of 'Losing My Religion'?",
@@ -941,15 +1049,17 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which two Grammys did 'Losing My Religion' win?",
-  "back": "Best Pop Performance by a Duo or Group with Vocal; Best Short Form Music Video (1992)",
+  "back": "Best Pop Performance by a Duo or Group with Vocal; Best Short Form Music Video",
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which 1991 MTV VMA did the 'Losing My Religion' video win?",
@@ -957,7 +1067,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "From which city did R.E.M. come?",
@@ -965,15 +1076,17 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Name the four original members of R.E.M.",
-  "back": "Michael Stipe (vocals), Peter Buck (guitar), Mike Mills (bass), Bill Berry (drums)",
+  "back": "Michael Stipe, Peter Buck, Mike Mills, Bill Berry",
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "What does R.E.M. stand for?",
@@ -981,7 +1094,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "R.E.M.'s 'Man on the Moon' is a tribute to which comedian?",
@@ -989,7 +1103,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which 1992 R.E.M. album includes 'Everybody Hurts' and 'Man on the Moon'?",
@@ -997,7 +1112,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which R.E.M. song features B-52s singer Kate Pierson and is famously upbeat?",
@@ -1005,7 +1121,8 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which R.E.M. song ends its title with '...(And I Feel Fine)'?",
@@ -1013,15 +1130,17 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "In what year did R.E.M. break up, and when were they inducted into the Rock Hall?",
-  "back": "Broke up 2011; Rock & Roll Hall of Fame 2007",
+  "back": "Broke up 2011; inducted 2007",
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  },
  {
   "front": "Which Hozier hit (2013) is a song about religion and sexuality?",
@@ -1029,6 +1148,7 @@
   "tags": [
    "losing-my-religion",
    "rem"
-  ]
+  ],
+  "priority": "bonus"
  }
 ]
