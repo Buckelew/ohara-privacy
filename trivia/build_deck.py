@@ -16,7 +16,6 @@ CATEGORIES = {
     "2_famous_pumpkins": "02 Famous Pumpkins (Picture Round)",
     "3_what_are_you_afraid_of": "03 What Are You Afraid Of",
     "4_l_artists": "04 L Artists Music Round",
-    "5_football": "05 Ready for Some Football",
     "6_stephen_king": "06 The King of Horror",
     "7_religion": "07 Losing My Religion",
 }
